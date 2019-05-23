@@ -50,7 +50,7 @@ local.properties
 .tern-project
 .springBeans
 .recommenders/
-.iml
+*.iml
 
 # Ignore docs files
 _gh_pages
